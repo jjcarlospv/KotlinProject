@@ -7,6 +7,9 @@ import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
 
+    val x = 0
+    var y : Integer? = null
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -14,6 +17,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onStart() {
         super.onStart()
+
     }
 
     override fun onResume() {
