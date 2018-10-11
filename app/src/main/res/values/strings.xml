@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">MiPrimeraAplicacion</string>
+    <string name="question">What would you like to order today?</string>
+
+    <string name="main">Main</string>
+    <string name="order">ORDER</string>
+    <string name="starter">Starter</string>
+    <string name="response">Resultado</string>
+    <string name="menu_main">Menu</string>
+    <string name="dish_1">Aji de Gallina</string>
+    <string name="dish_2">Ocopa</string>
+    <string name="dish_3">Sopa</string>
+    <string name="btn_accept">ordenar</string>
+    <string name="btn_finish">finish</string>
+    <string name="cb_1">Entrada</string>
+    <string name="cb_2">Plato de fondo</string>
 </resources>
