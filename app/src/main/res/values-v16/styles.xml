@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="textViewStyle">
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_margin">10dp</item>
+    </style>
+</resources>

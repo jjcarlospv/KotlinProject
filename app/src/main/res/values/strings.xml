@@ -14,4 +14,9 @@
     <string name="btn_finish">finish</string>
     <string name="cb_1">Entrada</string>
     <string name="cb_2">Plato de fondo</string>
+
+    <string name="cursos">Cursos</string>
+    <string name="notas">Notas</string>
+    <string name="temario">Temario</string>
+    <string name="msg">Mensaje</string>
 </resources>

@@ -25,7 +25,6 @@ class MainActivity : AppCompatActivity() {
             else
                 System.out.println("FALSE")
         }
-
     }
 
     override fun onStart() {
@@ -35,7 +34,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onResume() {
         super.onResume()
-        Toast.makeText(this, "", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, getString(R.string.abc_capital_off), Toast.LENGTH_SHORT).show()
     }
 
     fun clickEvent(view: View) {
