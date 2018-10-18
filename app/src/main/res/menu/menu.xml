@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_chile" android:title="Chile"/>
+    <item android:id="@+id/menu_eeuu" android:title="EEUU"/>
+    <item android:id="@+id/menu_ecuador" android:title="ECUADOR"/>
+    <item android:id="@+id/menu_costa_rica" android:title="COSTA RICA"/>
+
+</menu>
